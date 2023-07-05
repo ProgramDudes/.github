@@ -16,7 +16,7 @@ Atualmente, estamos trabalhando em:
 
 1. Seguidor de Linha: Desenvolvimento de um robô seguidor de linha. Além disso, estamos criando um site para explicar seu funcionamento.
 
-| <img src="https://placehold.co/130x70/000000/FFB81C/png?text=Em%20Desenvolvimento" /> | <img src="https://placehold.co/130x70/000000/FFB81C/png?text=Em%20Desenvolvimento" />  |
+| <img src="https://placehold.co/1280x720/000000/FFB81C/png?text=Em%20Desenvolvimento" /> | <img src="https://placehold.co/1280x720/000000/FFB81C/png?text=Em%20Desenvolvimento" />  |
 | ----- | ----- |
 | <p align="center">Home</p> | <p align="center">Home</p> |
 
