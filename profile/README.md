@@ -15,7 +15,7 @@ A ProgramDudes é uma equipe de desenvolvimento criada por universitários com o
 Atualmente, estamos trabalhando em:
 
 1. Seguidor de Linha: Desenvolvimento de um robô seguidor de linha. Além disso, estamos criando um site para explicar seu funcionamento.
-| <img src="./hux/png.png"/> | img src="./hux/png.png"/>  |
+| <img src="./hux/png.png"/> | <img src="./hux/png.png"/>  |
 | ----- | ----- |
 | <p align="center">Seguidor</p> | <p align="center">Site</p> |
 
