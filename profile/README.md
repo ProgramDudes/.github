@@ -18,7 +18,7 @@ Atualmente, estamos trabalhando em:
 
 | <img src="https://placehold.co/1280x720/000000/FFB81C/png?text=Em%20Desenvolvimento" /> | <img src="https://placehold.co/1280x720/000000/FFB81C/png?text=Em%20Desenvolvimento" />  |
 | ----- | ----- |
-| <p align="center">Home</p> | <p align="center">Home</p> |
+| <p align="center">Seguidor</p> | <p align="center">Site</p> |
 
 3. Blog: Em breve, iniciaremos o desenvolvimento de um blog para compartilhar conhecimento e experiências.
 
