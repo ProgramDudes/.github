@@ -1,6 +1,4 @@
-# ProgramDudes
-
-[<img src="https://avatars.githubusercontent.com/u/136010433" width="200" />](https://programdudes.github.io)
+# [ProgramDudes <img src="https://avatars.githubusercontent.com/u/136010433" width="200" />](https://programdudes.github.io)
 
 A ProgramDudes é uma equipe de desenvolvimento criada por universitários com o objetivo de aumentar o conhecimento dos participantes. Estamos comprometidos em expandir nossas habilidades e promover o aprendizado colaborativo.
 
