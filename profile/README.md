@@ -15,12 +15,11 @@ A ProgramDudes é uma equipe de desenvolvimento criada por universitários com o
 Atualmente, estamos trabalhando em:
 
 1. Seguidor de Linha: Desenvolvimento do algoritmo de um robô seguidor de linha. Além disso, estamos criando um site para explicar seu funcionamento.
+2. Blog: Desenvolvimento de um blog para integrar com JSON.
 
-| <img src="https://placehold.co/1280x720/000000/FFB81C/png?text=Em%20Desenvolvimento" /> | <img src="https://placehold.co/1280x720/000000/FFB81C/png?text=Em%20Desenvolvimento" />  |
+| <img src="https://raw.githubusercontent.com/ProgramDudes/Equivocatos/main/READMEsrc/imagem_2023-07-10_081545131.png" /> | <img src="https://placehold.co/1280x720/000000/FFB81C/png?text=Em%20Desenvolvimento" />  |
 | ----- | ----- |
-| <p align="center">Seguidor</p> | <p align="center">Site</p> |
-
-3. Blog: Em breve, iniciaremos o desenvolvimento de um blog para compartilhar conhecimento e experiências.
+| <p align="center">Blog</p> | <p align="center">Site</p> |
 
 ## Metodologia de Trabalho
 
